@@ -103,7 +103,7 @@ section {
 #header-nav {
   border: 0;
   background-color: #cc66ff;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
